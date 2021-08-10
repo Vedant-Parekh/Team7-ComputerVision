@@ -1,6 +1,9 @@
 # Team7-ComputerVision
 Skin detection model made for PnRP project
 
+# Report explaining the model
+https://www.overleaf.com/read/njdmqpjcbjft
+
 # Dependencies
 Numpy and OpenCV
 
